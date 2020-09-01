@@ -1,6 +1,6 @@
 # Write your #display_rainbow method here
 display_rainbow = ()
-puts ", , , G: green, B: blue, I: indigo, V: violet"
+puts ", , , G: gree,n B: blue, I: indigo, V: violet"
 
 display_rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 puts "R: red: #{color[0]}"
