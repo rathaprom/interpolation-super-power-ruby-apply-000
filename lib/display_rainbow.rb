@@ -1,7 +1,7 @@
 # Write your #display_rainbow method here
 
 def greeting(name = "display rainbow")
-  puts "Hello, #{name}"
+  puts "display_rainbow, #{name}"
 end
 
 display_rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
