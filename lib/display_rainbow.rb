@@ -1,8 +1,5 @@
 # Write your #display_rainbow method here
 
-greeting - 
-
-
 
 
 display_rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
