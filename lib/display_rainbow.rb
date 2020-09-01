@@ -1,4 +1,10 @@
 # Write your #display_rainbow method here
+
+greeting - 
+
+
+
+
 display_rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 puts "R: red: #{display[0]}"
 puts "O: orange: #{display[1]}"
