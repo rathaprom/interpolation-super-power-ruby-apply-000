@@ -1,6 +1,8 @@
 # Write your #display_rainbow method here
 
-
+def greeting(name = "display rainbow")
+  puts "Hello, #{name}"
+end
 
 display_rainbow = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 puts "R: red: #{display[0]}"
